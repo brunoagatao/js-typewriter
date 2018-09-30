@@ -1,0 +1,23 @@
+{
+  "name": "js-typewriter",
+  "version": "1.0.0",
+  "description": "Simple typewriter effect built in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoagatao/js-typewriter.git"
+  },
+  "author": "Bruno Agatao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoagatao/js-typewriter/issues"
+  },
+  "homepage": "https://github.com/brunoagatao/js-typewriter#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
